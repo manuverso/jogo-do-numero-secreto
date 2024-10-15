@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>📝 Sobre </h2>
-<p>Projeto feito em conjunto com o curso de lógica de programaçäo da Alura </p> 
+<p>Projeto feito em conjunto com o curso de lógica de programação da Alura </p> 
 
 ## Tecnologias utilizadas: 
 <div align="left">
