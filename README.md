@@ -14,7 +14,7 @@
 </div> 
 
 ## 🖥️ Link do pprojeto: 
-<p> <a href= 'https://decodifcador-de-texto.vercel.app'>Jogo do Número Secreto</a>
+<p> <a href= 'https://jogo-drab-nu-54.vercel.app/'>Jogo do Número Secreto</a>
 </p>
 
  
